@@ -1,0 +1,28 @@
+.Main {
+    text-align: center;
+}
+
+.upperMenu {
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 20px;
+
+}
+
+.errorMessage {
+    padding-right: 10%;
+    padding-left: 10%;
+    color: red;
+}
+
+@media screen and (min-width: 725px) and (max-width: 1107px) {
+    .upperMenu {
+        height: 570px;
+    }
+}
+
+@media screen and (max-width: 724px) {
+    .upperMenu {
+        height: 570px;
+    }
+}

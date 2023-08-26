@@ -1,0 +1,13 @@
+.p-inputtext {
+    width: 100%;
+    margin-bottom: 10px !important;
+}
+
+.p-password {
+    width: 100%;
+}
+
+.p-float-label {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}

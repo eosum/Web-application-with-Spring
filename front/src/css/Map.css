@@ -1,0 +1,8 @@
+.Map {
+  display: inline-block;
+}
+
+canvas.map {
+  position: absolute;
+  border: 1px solid;
+}

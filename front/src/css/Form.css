@@ -1,0 +1,24 @@
+.Form {
+    margin: 0 0 auto auto;
+    width: 400px;
+    float: right;
+}
+
+.input {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.p-slider {
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 725px) and (max-width: 1107px) {
+
+}
+
+@media screen and (max-width: 740px) {
+
+}
+
+
